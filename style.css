@@ -43,7 +43,7 @@
     
 
       .resume#headline {
-        background: dodgerblue;
+        background: grey;
         padding: 300px 0; }
       .resume#headline .text {
         margin: 30px auto;
@@ -58,7 +58,7 @@
         width:100px;
         margin-bottom: 30px;
         border-width: 3px;
-        border-color: #689196
+        border-color: Grey
       }
       .resume#work {
         background: #fff;
@@ -68,29 +68,29 @@
         padding: 0 20px; }
       .resume#work h1 {
         margin:0;
-        color: #545454;
+        color: dimgrey ;
         text-transform: uppercase;
         font-weight: bold;
-        letter-spacing:8px;
+        letter-spacing:2px;
         font-size:30px;
         font-family:tahoma, tahoma-w01-regular, tahoma-w02-regular, tahoma-w10-regular, tahoma-w15--regular, tahoma-w99-regular, sans-serif; }
       .resume#work h2 {
-        font-size:24px;
+        font-size:20px;
         height:30px;
-        color: #545454;
+        color: #4d4d4d;
         margin: 0px;}
       .resume#work h3 {
         color: #8a8a8a;
         font-size:15px;
         margin: 0px;
-        margin-bottom: 30px;}
+        margin-bottom: 40px;}
       .resume#thin h1 {
         color: #fff;
         font: 100 10.5vw/1 'lato'; 
         text-transform: uppercase; }
       body {
         font-family: 'Mandali', sans-serif;
-        background-color: dodgerblue;
+        background-color: grey ;
         margin: 15px;
       }
       h1 {
