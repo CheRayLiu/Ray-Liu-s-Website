@@ -8,7 +8,9 @@
     .intro#first .text {
       margin: 0 auto;
       padding: 0 20px;
-      width: 250px; }
+      width: 250px;
+      font: 'helvatica';
+      font-size: 15 }
     .intro#first h1 {
       color: #222;
       font: 700 24px/24px 'pt sans narrow';
@@ -30,7 +32,7 @@
       text-align: center; }
     .intro#first p {
       color: #222;
-      font: 400 14px/18px 'pt serif';
+      font: 400 14.5px/18px 'Helvetica';
       text-align: justify;
       text-indent: 14px;
     }
