@@ -29,21 +29,21 @@
  
  .scroll-to-top a{width:3.5rem;height:3.5rem;background-color:rgba(33,37,41,.5);line-height:3.1rem}
  #mainNav{padding-top:1rem;padding-bottom:1rem;font-weight:700;font-family:Montserrat}
- #mainNav .navbar-brand{color:#fff}
+ #mainNav .navbar-brand{color:#2c3e50}
  #mainNav .navbar-nav{margin-top:1rem;letter-spacing:.0625rem}
  
  #mainNav .navbar-nav li.nav-item a.nav-link{color:#fff}
  
- #mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#E3E2E1}
+ #mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#fff}
  
  #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{color:#fff}
- #mainNav .navbar-nav li.nav-item a.nav-link.active{color:#18bc9c}
- #mainNav .navbar-toggler{font-size:80%;padding:.8rem}
+ #mainNav .navbar-nav li.nav-item a.nav-link.active{color:#2c3e50}
+ #mainNav .navbar-toggler{font-size:80%;padding:.8rem;background:#2c3e50}
  @media (min-width:992px){#mainNav{padding-top:1.5rem;padding-bottom:1.5rem;-webkit-transition:padding-top .3s,padding-bottom .3s;transition:padding-top .3s,padding-bottom .3s}
  
  #mainNav .navbar-brand{font-size:2em;-webkit-transition:font-size .3s;transition:font-size .3s}
  
- #mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#18bc9c}
+ #mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#2c3e50}
  
  #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color:#fff;background:#E3E2E1}
  
